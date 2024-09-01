@@ -1,6 +1,6 @@
 # Task Track
 
-**Task Track** is a simple yet powerful full-stack to-do application built using the PERN stack (PostgreSQL, Express.js, React.js, Node.js). Task Track helps you manage your tasks efficiently, allowing you to add, edit, mark as completed, and delete tasks with ease. 
+**Task Track** is a simple yet powerful full-stack to-do application built using the PERN stack (PostgreSQL, Express.js, React.js, Node.js). Task Track helps you manage your tasks efficiently, allowing you to add, edit, and delete tasks with ease. 
 
 ## Features
 
